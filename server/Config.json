@@ -1,0 +1,12 @@
+  {
+      "listen": ":8001",
+      "salt": "123456abcdef",
+      "auth": {
+          "echo0d": "password"
+      },
+      "log": {
+          "level": "info",
+          "path": "./logs",
+          "days": 7
+      }
+  }
